@@ -1,5 +1,5 @@
 # SWASTH---A-Healthcare-Chatbot
-SWASTH is an AI-powered healthcare chatbot providing 24/7 medical assistance. It uses NLP and ML (decision trees) to analyze symptoms and predict illnesses. The chatbot then offers healthcare recommendations and medication suggestions. This project enhances healthcare accessibility and empowers individuals with basic medical advice.
+SWASTH is an AI-powered healthcare chatbot designed to provide 24/7 medical assistance. It leverages natural language processing (NLP) and machine learning (ML) algorithms, including decision trees, to analyze user-provided symptoms and accurately predict illnesses or diseases. The chatbot then offers appropriate healthcare recommendations and suggests relevant medications. This project aims to improve healthcare accessibility and empower individuals by offering an alternative platform for basic medical advice and support.
 # Project Overview
 SWASTH is an AI-powered healthcare chatbot designed to provide round-the-clock medical assistance to users. The primary objective is to create an intelligent conversational program that can offer medical support by analyzing symptoms and providing relevant health recommendations. 
 # Technical Specifications
